@@ -1,4 +1,22 @@
 # MailGun 📧
+## 🎬 Demo
+![MailGun Demo](demo.gif)
+
+*Email automation and delivery tracking*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Compose View | ![compose](screenshots/compose.png) |
+| Delivery Stats | ![stats](screenshots/delivery-stats.png) |
+| Webhook Log | ![webhooks](screenshots/webhooks.png) |
+
+## Visual Description
+Compose view shows email template with variable substitution. Delivery stats display open rates and click tracking. Webhook log shows incoming events with payloads.
+
+---
+
+
 
 > **Email Automation and Delivery API** - Send, Track, and Analyze Emails at Scale
 
